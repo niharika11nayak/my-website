@@ -1,0 +1,599 @@
+.container{
+   background-image: url(background-image3.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+body{
+  overflow-x: hidden;
+}
+.div1{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+}
+ul{
+   margin: 0;
+   padding:0;
+   overflow: hidden;
+}
+
+li{
+   display: inline;
+   float: left;
+}
+li a{
+   display: block;
+}
+li a:hover{
+   background-color:darkturquoise;
+}
+a.home{
+   margin-left: 112px;
+   margin-top: 35px;
+   font-size: 20px;
+   color: white;
+   text-decoration: none;
+}
+a.company{
+  margin-top: 35px;
+  margin-left: 20px;
+  font-size:20px;
+  color: white;
+  text-decoration: none;
+}
+a.ITsolutions{
+  margin-top: 35px;
+  margin-left: 20px;
+  font-size:20px;
+  color: white;
+  text-decoration: none;
+}
+a.Newsandmedia{
+  margin-top: 35px;
+  margin-left: 20px;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+}
+a.Features{
+  margin-top: 35px;
+  margin-left: 20px;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+}
+a.Contacts{
+  margin-top: 35px;
+  margin-left: 20px;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+}
+.btn1{
+  background-color: lightcyan;
+  padding:8px;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left:5px;
+  color:black;
+  border: 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.btn1:hover{
+  background-color:darkturquoise;
+}
+
+a.login{
+  margin-top: 35px;
+  margin-left: 20px;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.h1{
+  margin: auto;
+  width: 60%;
+  color:ghostwhite;
+  padding: 10px;
+  font-size: 70px;
+  padding-top: 7%;
+}
+
+.para1{
+  margin: auto;
+  width: 60%;
+  color:ghostwhite;
+  padding: 10px;
+  font-size: 30px;
+  padding-top: 3%;
+}
+
+.btn2{
+  background-color:azure;
+  padding:10px;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-left: 300px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-right: 6px;
+  padding-left:6px;
+  color:black;
+  border: 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-bottom:100px;
+
+}
+.btn2:hover{
+  background-color:darkturquoise;
+}
+
+
+.btn3{
+  background-color:azure;
+  padding:10px;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-left: 15px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-right: 6px;
+  padding-left:6px;
+  color:black;
+  border: 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-bottom:100px;
+
+}
+.btn3:hover{
+  background-color:darkturquoise;
+}
+
+
+
+.para2
+{
+  padding: 10px;
+  font-size: 20px;
+  color: darkcyan;
+  padding-top: 5%;
+  margin-left:6%;
+  width: 80%;
+}
+
+.para3{
+  font-size: 40px;
+  padding:15px;
+  color: black;
+  margin-left: 6%;
+  padding-top: 2%;
+}
+
+.img1{
+  margin-left: 6%;
+  width: 600px;
+  height: 395px;
+  padding: 7px;
+  position: relative;
+  z-index: -1;
+}
+
+.btn4{
+  top: 1450px;
+  background-color:azure;
+  font-size: 20px;
+  margin-left:-440px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 8px;
+  padding-left:8px;
+  color:black;
+  border: 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  position: absolute;
+  z-index: -1;
+}
+.btn4:hover{
+  background-color:darkturquoise;
+}
+
+div.mycontainer {
+  width:100%;
+  overflow:auto;
+}
+div.mycontainer div {
+  width:50%;  
+  float:left;
+}
+
+.para4{
+  font-size: 22px;
+  color: darkslategray;
+  padding-top: 18%;
+}
+.para5{
+  font-size: 22px;
+  color: darkslategray;
+  padding-top:4%;
+}
+
+.btn5{
+  background-color: aqua;
+  border-radius: 100px;
+  font-size: 22px;
+  border: 0px;
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+}
+.btn5:hover{
+  background-color: darkcyan;
+}
+
+div.mycontainer1 {
+  width:100%;
+  overflow:auto;
+}
+div.mycontainer1 div {
+  width:50%;  
+  float:left;
+}
+
+div.mycontainer2 {
+  width:100%;
+  overflow:auto;
+  margin-top: 4%;
+  margin-left: 4%;
+}
+div.mycontainer2 div {
+  width:49%;  
+  float:left;
+}
+.para6{
+  color: darkcyan;
+  font-size: 18px;
+  padding-top: 5%;
+}
+
+.para7{
+  font-size: 40px;
+  color: black;
+  margin-top: -6px;
+}
+.para8{
+  font-size: 20px;
+  color: darkslategray;
+  margin-top: 12%;
+}
+
+div.mycontainer3 {
+  width:100%;
+  overflow:auto;
+}
+div.mycontainer3 div {
+  width:30%;  
+  float:left;
+  margin-top: 30px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-right: 6px;
+  padding-left:6px;
+  border: 2px solid black;
+}
+
+.btn6{
+  background-color:cadetblue;
+  padding:10px;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-left: 10px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-right: 6px;
+  padding-left:6px;
+  color:white;
+  border: 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-bottom:30px;
+}
+.btn6:hover{
+  background-color:darkcyan;
+}
+
+div.mycontainer4 {
+  width:100%;
+  overflow:auto;
+  margin-left: 8%;
+  margin-top: 4%;
+}
+div.mycontainer4 div {
+  width:30%;  
+  float:left;
+}
+
+.btn7{
+  background-color:azure;
+  padding:10px;
+  font-size: 22px;
+  margin-top: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 3px;
+  padding-left: 3px;
+  color:black;
+  border: 2px solid black;
+  width: 60%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+}
+.btn7:hover{
+  background-color:darkturquoise;
+}
+
+div.mycontainer5 {
+  width:100%;
+  overflow: auto;
+  margin-top: 4%;
+  background-image:url(background-image5.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+div.mycontainer5 div {
+  width:30%;  
+  float:left;
+}
+
+.para9{
+  color: white;
+  font-size: 80px;
+  margin-top: 2%;
+  margin-left: 15%;
+}
+.para10{
+  color: white;
+  font-size: 35px;
+  margin-left: 15%;
+  margin-top: -10%;
+}
+.para11{
+  color: white;
+  font-size: 22px;
+  margin-left: 20%;
+  margin-top: 30%;
+  width: 90%;
+}
+.para12{
+  color: white;
+  font-size: 22px;
+  margin-left: 25%;
+  margin-top: 30%;
+  width: 90%;
+}
+
+.btn8{
+  background-color:aliceblue;
+  padding:10px;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-left: 25%;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-right: 6px;
+  padding-left:6px;
+  color:black;
+  border: 5px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-bottom:50px;
+}
+.btn8:hover{
+  background-color: aqua;
+}
+.i2:hover{
+  color: darkturquoise;
+}
+
+.mycontainer6 {
+  display: flex;
+  background-image: url(background-image5.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mycontainer6 div {
+  width:15%;
+  border: 2px solid white;
+  color: white;
+  background-color: black;
+  padding: 20px;
+}
+
+.btn9{
+  background-color:aliceblue;
+  padding:10px;
+  margin-top: 20px;
+  margin-left: 36%;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-right: 6px;
+  padding-left:6px;
+  color:black;
+  border: 2px solid white;
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  margin-bottom:20px;
+}
+.btn9:hover{
+  background-color: darkcyan;
+}
+
+
+div.mycontainer7 {
+  width:100%;
+  overflow: auto;
+  margin-top: 0%;
+  background-image:url(background-image5.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  position: relative;
+  z-index: -1;
+}
+div.mycontainer7 div {
+  width:30%;  
+  float:left;
+}
+
+.para13 {
+  margin-top: 12%;
+  margin-left: 35%;
+  margin-bottom: 20%;
+}
+.para13:hover{
+  color: darkcyan;
+}
+
+div.mycontainer8 {
+  width:100%;
+  overflow: auto;
+}
+div.mycontainer8 div {
+  width:30%;  
+  float:left;
+}
+
+
+div.mycontainer9 {
+  width:100%;
+  overflow:auto;
+}
+div.mycontainer9 div {
+  width:30%;  
+  float:left;
+  background-color: ghostwhite;
+  margin-top: 20px;
+  padding-bottom: 40px;
+}
+
+div.mycontainer10 {
+  width:100%;
+  overflow: auto;
+  margin-top: 0%;
+  background-image:url(background-image.7.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  margin-top: 5%;
+}
+div.mycontainer10 div {
+  width:40%;  
+  float:left;
+}
+
+
+.btn10{
+  background-color:azure;
+  font-size: 22px;
+  margin-top: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color:black;
+  border: 2px solid black;
+  margin-left: 12%;
+  margin-bottom:10px;
+  width: 60%;
+  padding: 10px;
+}
+.btn10:hover {
+  background-color: aqua;
+}
+ 
+.btn11 {
+  border-radius: 100px;
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  color: white;
+  background-color: black;
+  border: 2px solid whitesmoke;
+  padding: 10px;
+}
+.btn11:hover{
+  background-color: cyan;
+}
+
+div.mycontainer11 {
+  width:100%;
+  overflow:auto;
+  margin-left: 40%;
+  margin-top: 4%;
+}
+
+.div2{
+  background-color: white;
+  border: 0px;
+  width: 90%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  margin-top: 5%;
+  margin-left:10%;
+  padding: 10px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  margin-bottom: 6%;
+}
+
+.btn12 {
+  border-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  color: darkslategray;
+  background-color: white;
+  border: 2px solid darkslategray;
+  width: 40%;
+  padding: 10px;
+  padding-right: 35%;
+}
+
+.para14:hover{
+  color: darkcyan;
+}
+
+.div3{
+  top: 5%;
+  
+}
